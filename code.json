@@ -1,15 +1,15 @@
+
 {
     "TAPPER": {
         "Active": true,
         "RewardType": "Robux",
-        "RewardValue": 1000000000000
+        "RewardValue": 1000000000
     },
     "WELCOME": {
         "Active": true,
         "RewardType": "Robux",
         "RewardValue": 500
-    }
-
+    },
     "TAPPERFRIEND": {
         "Active": true,
         "RewardType": "Robux",
@@ -18,6 +18,6 @@
     "INEEDIT": {
         "Active": true,
         "RewardType": "Booth",
-        "RewardValue": Gold
+        "RewardValue": "Gold"
     }
 }
